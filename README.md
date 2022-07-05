@@ -1,1 +1,1 @@
-# Tetris-2D-Game
+# Tetris 2D Game
